@@ -1,0 +1,21 @@
+html {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+#cabecalho {
+    background-color: orange;
+    font-size: 25px;
+}
+
+body {
+    text-align: center;
+}
+
+#imagem {
+width: 100%;
+right: 100%;
+}
